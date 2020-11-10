@@ -1,0 +1,10 @@
+Uma alteração feita agora
+
+
+
+
+e outra aqui 5 linhas depois
+
+ALTERAÇOES EFETUADOS NO BRANCH 'NOVAFEATURE'
+
+
