@@ -1,1 +1,10 @@
-Alterar esta linha do ficheiro 3
+Este é o exemplo de um ficheiro do texto file3
+
+<h2>Bebidas</h2>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
